@@ -1,1 +1,3 @@
-# -100DaysOfCode
+#100DaysOfCode
+
+Day 1: Completed Algorithms in Python Language.
